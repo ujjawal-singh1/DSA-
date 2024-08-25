@@ -1,6 +1,6 @@
 # DSA (Data Structures and Algorithms)
 
-![DSA Image]())
+![DSA Image](dsa_logo.jpg))
 
 ## Introduction
 
